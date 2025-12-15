@@ -8,7 +8,7 @@ public class Categoria {
 
         if (valor <= 50) {
             System.out.println("Produto de categoria Econônica");
-        } else if (valor > 50 && valor <= 200) {
+         } else if (valor > 50 && valor <= 200) {
             System.out.println("Produto de categoria Intermediária");
         } else {
             System.out.println("Produto de categoria Premium");
