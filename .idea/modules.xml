@@ -10,6 +10,7 @@
       <module fileurl="file://$PROJECT_DIR$/data-e-hora/data-e-hora.iml" filepath="$PROJECT_DIR$/data-e-hora/data-e-hora.iml" />
       <module fileurl="file://$PROJECT_DIR$/git/git.iml" filepath="$PROJECT_DIR$/git/git.iml" />
       <module fileurl="file://$PROJECT_DIR$/lacos-for-while/lacos-for-while.iml" filepath="$PROJECT_DIR$/lacos-for-while/lacos-for-while.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lambdas/lambdas.iml" filepath="$PROJECT_DIR$/lambdas/lambdas.iml" />
       <module fileurl="file://$PROJECT_DIR$/variaveis/variaveis.iml" filepath="$PROJECT_DIR$/variaveis/variaveis.iml" />
     </modules>
   </component>
